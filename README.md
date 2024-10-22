@@ -12,7 +12,7 @@
 
 <div>
   <h3>🛠️ Skills:</h3>
-  <p>
+  <p style="margin-left: 10px">
     <b>Languages:</b> <br />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width=40 height=40 />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width=40 height=40 />
@@ -20,26 +20,23 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width=40 height=40 />
   </p>
 
-  <p>
-    <b>Frameworks:</b> <br />
+  <p style="margin-left: 10px">
+    <b>Frameworks & Libraries:</b> <br />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width=40 height=40 />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" width=40 height=40 />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width=40 height=40 />
   </p>
 
-  <p>
-    <b>Libraries:</b> <br />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" width=40 height=40 />
-  </p>
-
-  <p>
+  <p style="margin-left: 10px">
     <b>Databases:</b> <br />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width=40 height=40 />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width=40 height=40 />
   </p>
 
-  <p>
-    <b>Integrated Development Environment (IDE):</b> <br />
+  <p style="margin-left: 10px">
+    <b>Tools:</b> <br />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width=40 height=40 />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" width=40 height=40 />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width=40 height=40 />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width=40 height=40 />
   </p>
 </div>
