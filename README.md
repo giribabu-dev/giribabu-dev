@@ -13,6 +13,7 @@
 <div>
   <h3>🛠️ Skills:</h3>
   <p>
-    
+    <b>**Languages:**</b>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
   </p>
 </div>
