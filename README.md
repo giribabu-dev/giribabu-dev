@@ -14,6 +14,6 @@
   <h3>🛠️ Skills:</h3>
   <p>
     <b>**Languages:**</b>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width=40 height=40 />
   </p>
 </div>
