@@ -1,2 +1,3 @@
-
-# Hi there, I am Giribabu
+<div align='center'>
+  Hi, I am Giribabu! 👋
+</div>
