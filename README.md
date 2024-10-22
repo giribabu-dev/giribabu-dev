@@ -1,4 +1,4 @@
-<h1 align='center' style='color: #2fb68e'>
+<h1 align='center' style="color: #2fb68e">
   Hi, I am Giribabu! 👋
 </h1>
 
