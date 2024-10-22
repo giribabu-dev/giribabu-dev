@@ -15,5 +15,22 @@
   <p>
     <b>**Languages:**</b> <br />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width=40 height=40 />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width=40 height=40 />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width=40 height=40 />
+  </p>
+
+  <p>
+    <b>Frameworks:</b> <br />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width=40 height=40 />
+  </p>
+
+  <p>
+    <b>Libraries:</b> <br />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" width=40 height=40 />
+  </p>
+
+  <p>
+    <b>Databases:</b> <br />
+    <img src="" />
   </p>
 </div>
