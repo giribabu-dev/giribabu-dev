@@ -13,15 +13,17 @@
 <div>
   <h3>🛠️ Skills:</h3>
   <p>
-    <b>**Languages:**</b> <br />
+    <b>Languages:</b> <br />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width=40 height=40 />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width=40 height=40 />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width=40 height=40 />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width=40 height=40 />
   </p>
 
   <p>
     <b>Frameworks:</b> <br />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width=40 height=40 />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width=40 height=40 />
   </p>
 
   <p>
@@ -31,6 +33,13 @@
 
   <p>
     <b>Databases:</b> <br />
-    <img src="" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width=40 height=40 />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width=40 height=40 />
+  </p>
+
+  <p>
+    <b>Integrated Development Environment (IDE):</b>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" width=40 height=40 />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Light.svg" width=40 height=40 />
   </p>
 </div>
