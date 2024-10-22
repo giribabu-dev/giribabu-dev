@@ -3,7 +3,7 @@
 </h1>
 
 <div>
-  <h3>About:</h3>
+  <h2>About:</h2>
   <p>
     A enthusiastic MERN Full Stack Developer with a solid foundation in creating static, dynamic and responsive web applications. My expertise lies in the MERN Stack     - MongoDB, Express.js, React.js and Node.js - which I have used to build full stack projects that showcase my ability to handle both frontend development and 
     backend development.
@@ -11,7 +11,7 @@
 </div>
 
 <div>
-  <h3>🛠️ Skills:</h3>
+  <h2>🛠️ Skills:</h2>
   <p style="margin-left: 10px">
     <b>Languages:</b> <br />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width=40 height=40 />
