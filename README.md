@@ -38,8 +38,8 @@
   </p>
 
   <p>
-    <b>Integrated Development Environment (IDE):</b>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" width=40 height=40 />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Light.svg" width=40 height=40 />
+    <b>Integrated Development Environment (IDE):</b> <br />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width=40 height=40 />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" width=40 height=40 />
   </p>
 </div>
