@@ -13,7 +13,7 @@
 <div>
   <h2>🛠️ Skills:</h2>
   <p style="margin-left: 10px">
-    <b>Languages:</b> <br />
+    <b>Front End Technologies:</b> <br />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width=40 height=40 />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width=40 height=40 />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width=40 height=40 />
@@ -21,7 +21,7 @@
   </p>
 
   <p style="margin-left: 10px">
-    <b>Frameworks & Libraries:</b> <br />
+    <b>Back End Technologies:</b> <br />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width=40 height=40 />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" width=40 height=40 />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width=40 height=40 />
@@ -39,5 +39,6 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width=40 height=40 />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width=40 height=40 />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width=40 height=40 />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Light.svg" width=40 height=40 />
   </p>
 </div>
