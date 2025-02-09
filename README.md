@@ -17,8 +17,15 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width=40 height=40 />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width=40 height=40 />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width=40 height=40 />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width=40 height=40 />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Regex-Dark.svg" width=40 height=40 />
+  </p>
+
+  <p style="margin-left: 10px">
+    <b>UI Frameworks:</b> <br />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width=40 height=40 />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width=40 height=40 />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width=40 height=40 />
   </p>
 
   <p style="margin-left: 10px">
@@ -34,10 +41,15 @@
   </p>
 
   <p style="margin-left: 10px">
-    <b>Tools:</b> <br />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width=40 height=40 />
+    <b>Version Control System:</b> <br />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width=40 height=40 />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width=40 height=40 />
+  </p>
+
+  <p style="margin-left: 10px">
+    <b>Tools:</b> <br />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width=40 height=40 />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width=40 height=40 />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" width=40 height=40 />
   </p>
 
