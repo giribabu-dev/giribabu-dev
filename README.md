@@ -20,6 +20,7 @@ My expertise lies in the **MERN Stack** — MongoDB, Express.js, React.js, and N
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Regex-Dark.svg" width="40" height="40" />
 </div>
 
+
 ### 🎨 UI Frameworks
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="40" height="40" />
@@ -27,11 +28,13 @@ My expertise lies in the **MERN Stack** — MongoDB, Express.js, React.js, and N
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="40" height="40" />
 </div>
 
+
 ### 🧩 Backend Technologies
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="40" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="40" height="40" />
 </div>
+
 
 ### 🗃️ Databases
 <div>
@@ -39,11 +42,13 @@ My expertise lies in the **MERN Stack** — MongoDB, Express.js, React.js, and N
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="40" height="40" />
 </div>
 
+
 ### 🔧 Version Control
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="40" height="40" />
 </div>
+
 
 ### 🛠️ Tools
 <div>
@@ -51,6 +56,7 @@ My expertise lies in the **MERN Stack** — MongoDB, Express.js, React.js, and N
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="40" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" width="40" height="40" />
 </div>
+
 
 ### 🖥️ Operating Systems
 <div>
