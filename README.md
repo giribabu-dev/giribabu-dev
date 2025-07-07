@@ -11,12 +11,14 @@ My expertise lies in the **MERN Stack** — MongoDB, Express.js, React.js, and N
 ## 🛠️ Skills
 
 ### 💻 Frontend Technologies
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="40" height="40" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40" height="40" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40" height="40" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40" height="40" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="40" height="40" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Regex-Dark.svg" width="40" height="40" />
+<div>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Regex-Dark.svg" width="40" height="40" />
+</div>
 
 ### 🎨 UI Frameworks
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="40" height="40" />
