@@ -13,7 +13,7 @@ My expertise lies in the **MERN Stack** — MongoDB, Express.js, React.js, and N
 ### 💻 Frontend Technologies
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="40" height="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40" height="40" style="margin: '0 5px'" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="40" height="40" />
