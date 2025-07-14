@@ -2,6 +2,8 @@
   Hello, I am Giribabu! 👋
 </h1>
 
+<br />
+
 ## 🧑‍💻 About Me
 An enthusiastic **MERN Full Stack Developer** with a strong foundation in building static, dynamic and responsive web applications.  
 My expertise lies in the **MERN Stack** — MongoDB, Express.js, React.js, and Node.js — through which I have developed full-stack applications, demonstrating my capability in both frontend and backend development.
