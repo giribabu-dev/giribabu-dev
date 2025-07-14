@@ -1,5 +1,5 @@
 <h1 align="center" style="color:orange">
-  Hi, I am Giribabu! 👋
+  Hello, I am Giribabu! 👋
 </h1>
 
 ## 🧑‍💻 About Me
