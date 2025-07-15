@@ -10,7 +10,7 @@ My expertise lies in the **MERN Stack** — MongoDB, Express.js, React.js, and N
 
 <br />
 
-## 🛠️ Skills
+## 🛠️ Skills:
 
 ### 💻 Frontend Technologies
 <div>
